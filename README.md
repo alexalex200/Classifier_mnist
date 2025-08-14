@@ -68,5 +68,5 @@ root.mainloop()
 
 ## Example Results
 
-![Example](Demo.gif)
+![Example](demo.gif)
 
