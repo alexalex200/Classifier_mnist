@@ -68,9 +68,5 @@ root.mainloop()
 
 ## Example Results
 
-You can include screenshots or GIFs here, for example:
-```
-results/demo_prediction.gif
-```
-![Example](results/demo_prediction.gif)
+![Example](Demo.gif)
 
