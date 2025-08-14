@@ -66,7 +66,7 @@ app = DrawApp(root, predict)
 root.mainloop()
 ```
 
-## Example Results
+## Demonsrtation
 
 ![Example](demo.gif)
 
